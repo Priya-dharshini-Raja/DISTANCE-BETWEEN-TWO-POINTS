@@ -10,10 +10,21 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
+```
+#Program to find the distance between two points.
+#Developed by: Priyadharshini Raja
+#RegisterNumber:23013908
+x1=4
+x2=10
+y1=2
+y2=6
+distance=((x2-x1)**2+(y2-y1)**2)**(1/2)
+print("{:0.2f}".format(distance))
   
+```
 
-
-### OUTPUT:
+![output](distance_ss.png)### OUTPUT:
 
 
 ### RESULT:
+completed successfully.
